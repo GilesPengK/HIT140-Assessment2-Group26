@@ -126,6 +126,7 @@ project/
 ├── tests/
 │   └── fixture_400021443.txt   real captured page text, used to test the parser
 ├── notebooks/
+├── meeting-minutes/            minutes posted to the Teams channel
 ├── data/raw/                   scraped pages + raw JSON, never edited by hand
 ├── data/clean/                 generated CSVs
 └── figures/                    plots saved by the notebooks
