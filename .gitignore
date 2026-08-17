@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+
+# data/ is deliberately NOT ignored — the assessment requires the datasets
+# to be in the repository alongside the code.

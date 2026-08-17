@@ -1,0 +1,13 @@
+# HIT140 Assessment 2 — Darwin Group 26
+# Versions match the conda env `test06`, which is the group's working env.
+# Do not upgrade these without telling the group: four notebooks depend on them.
+
+pandas==2.1.4
+numpy==1.23.5
+scipy==1.12.0
+matplotlib==3.8.4
+seaborn==0.12.2
+requests==2.31.0
+
+# step 2 only (browser scraping); after installing run: playwright install chromium
+playwright>=1.40
