@@ -1,0 +1,105 @@
+match_id,match_number,stage_id,api_stage_id,stage_name,is_group_stage,group_name,date_utc,stadium,attendance,referee,home_team,away_team,home_abbr,away_abbr,home_score,away_score,home_bookings,away_bookings
+400021440,25,289273,289273,Group stage,True,Group A,2026-06-18T16:00:00Z,Atlanta Stadium,67442,Tori PENSO,Czechia,South Africa,CZE,RSA,1,1,1,2
+400021441,2,289273,289273,Group stage,True,Group A,2026-06-12T02:00:00Z,Guadalajara Stadium,44985,Amin MOHAMED,Korea Republic,Czechia,KOR,CZE,2,1,1,0
+400021442,28,289273,289273,Group stage,True,Group A,2026-06-19T01:00:00Z,Guadalajara Stadium,45522,Gustavo TEJERA,Mexico,Korea Republic,MEX,KOR,1,0,0,2
+400021443,1,289273,289273,Group stage,True,Group A,2026-06-11T19:00:00Z,Mexico City Stadium,80824,Wilton SAMPAIO,Mexico,South Africa,MEX,RSA,2,0,2,4
+400021444,53,289273,289273,Group stage,True,Group A,2026-06-25T01:00:00Z,Mexico City Stadium,80824,Yael FALCON PEREZ,Czechia,Mexico,CZE,MEX,0,3,0,1
+400021445,54,289273,289273,Group stage,True,Group A,2026-06-25T01:00:00Z,Monterrey Stadium,51243,Facundo TELLO,South Africa,Korea Republic,RSA,KOR,1,0,1,1
+400021446,26,289273,289273,Group stage,True,Group B,2026-06-18T19:00:00Z,Los Angeles Stadium,70026,Joao PINHEIRO,Switzerland,Bosnia and Herzegovina,SUI,BIH,4,1,1,3
+400021447,8,289273,289273,Group stage,True,Group B,2026-06-13T19:00:00Z,San Francisco Bay Area Stadium,67966,Said MARTINEZ,Qatar,Switzerland,QAT,SUI,1,1,2,1
+400021448,52,289273,289273,Group stage,True,Group B,2026-06-24T19:00:00Z,Seattle Stadium,66925,Jesus VALENZUELA,Bosnia and Herzegovina,Qatar,BIH,QAT,3,1,1,1
+400021449,3,289273,289273,Group stage,True,Group B,2026-06-12T19:00:00Z,Toronto Stadium,43002,Facundo TELLO,Canada,Bosnia and Herzegovina,CAN,BIH,1,1,2,3
+400021450,27,289273,289273,Group stage,True,Group B,2026-06-18T22:00:00Z,BC Place Vancouver,52497,Cristian GARAY,Canada,Qatar,CAN,QAT,6,0,1,3
+400021451,51,289273,289273,Group stage,True,Group B,2026-06-24T19:00:00Z,BC Place Vancouver,52497,Ramon ABATTI,Switzerland,Canada,SUI,CAN,2,1,1,2
+400021452,50,289273,289273,Group stage,True,Group C,2026-06-24T22:00:00Z,Atlanta Stadium,68239,Danny MAKKELIE,Morocco,Haiti,MAR,HAI,4,2,0,3
+400021453,5,289273,289273,Group stage,True,Group C,2026-06-14T01:00:00Z,Boston Stadium,64146,Mustapha GHORBAL,Haiti,Scotland,HAI,SCO,0,1,1,3
+400021454,30,289273,289273,Group stage,True,Group C,2026-06-19T22:00:00Z,Boston Stadium,64146,Ilgiz TANTASHEV,Scotland,Morocco,SCO,MAR,0,1,1,1
+400021455,49,289273,289273,Group stage,True,Group C,2026-06-24T22:00:00Z,Miami Stadium,64478,Cesar RAMOS,Scotland,Brazil,SCO,BRA,0,3,1,2
+400021456,7,289273,289273,Group stage,True,Group C,2026-06-13T22:00:00Z,New York/New Jersey Stadium,80663,Slavko VINCIC,Brazil,Morocco,BRA,MAR,1,1,2,0
+400021457,29,289273,289273,Group stage,True,Group C,2026-06-20T00:30:00Z,Philadelphia Stadium,68324,Alejandro HERNANDEZ,Brazil,Haiti,BRA,HAI,3,0,1,3
+400021458,4,289273,289273,Group stage,True,Group D,2026-06-13T01:00:00Z,Los Angeles Stadium,70492,Danny MAKKELIE,USA,Paraguay,USA,PAR,4,1,1,5
+400021459,59,289273,289273,Group stage,True,Group D,2026-06-26T02:00:00Z,Los Angeles Stadium,70492,Mustapha GHORBAL,Türkiye,USA,TUR,USA,3,2,0,1
+400021460,31,289273,289273,Group stage,True,Group D,2026-06-20T03:00:00Z,San Francisco Bay Area Stadium,68827,Ivan BARTON,Türkiye,Paraguay,TUR,PAR,0,1,2,3
+400021461,60,289273,289273,Group stage,True,Group D,2026-06-26T02:00:00Z,San Francisco Bay Area Stadium,68827,Clement TURPIN,Paraguay,Australia,PAR,AUS,0,0,1,1
+400021462,32,289273,289273,Group stage,True,Group D,2026-06-19T19:00:00Z,Seattle Stadium,66925,Felix ZWAYER,USA,Australia,USA,AUS,2,0,3,4
+400021463,6,289273,289273,Group stage,True,Group D,2026-06-14T04:00:00Z,BC Place Vancouver,52497,Jesus VALENZUELA,Australia,Türkiye,AUS,TUR,2,0,0,1
+400021464,10,289273,289273,Group stage,True,Group E,2026-06-14T17:00:00Z,Houston Stadium,68021,Jalal JAYED,Germany,Curaçao,GER,CUW,7,1,0,0
+400021465,34,289273,289273,Group stage,True,Group E,2026-06-21T00:00:00Z,Kansas City Stadium,68598,MA Ning,Ecuador,Curaçao,ECU,CUW,0,0,1,5
+400021466,56,289273,289273,Group stage,True,Group E,2026-06-25T20:00:00Z,New York/New Jersey Stadium,80663,Tori PENSO,Ecuador,Germany,ECU,GER,2,1,3,1
+400021467,9,289273,289273,Group stage,True,Group E,2026-06-14T23:00:00Z,Philadelphia Stadium,68274,Francois LETEXIER,Côte d'Ivoire,Ecuador,CIV,ECU,1,0,3,1
+400021468,55,289273,289273,Group stage,True,Group E,2026-06-25T20:00:00Z,Philadelphia Stadium,68324,Glenn NYBERG,Curaçao,Côte d'Ivoire,CUW,CIV,0,2,2,1
+400021469,33,289273,289273,Group stage,True,Group E,2026-06-20T20:00:00Z,Toronto Stadium,43036,Juan Gabriel BENITEZ,Germany,Côte d'Ivoire,GER,CIV,2,1,0,0
+400021470,11,289273,289273,Group stage,True,Group F,2026-06-14T20:00:00Z,Dallas Stadium,69285,Ismail ELFATH,Netherlands,Japan,NED,JPN,2,2,3,0
+400021471,57,289273,289273,Group stage,True,Group F,2026-06-25T23:00:00Z,Dallas Stadium,70137,Ivan BARTON,Japan,Sweden,JPN,SWE,1,1,1,2
+400021472,35,289273,289273,Group stage,True,Group F,2026-06-20T17:00:00Z,Houston Stadium,68777,Michael OLIVER,Netherlands,Sweden,NED,SWE,5,1,0,3
+400021473,58,289273,289273,Group stage,True,Group F,2026-06-25T23:00:00Z,Kansas City Stadium,68391,Katia GARCIA,Tunisia,Netherlands,TUN,NED,1,3,0,0
+400021474,12,289273,289273,Group stage,True,Group F,2026-06-15T02:00:00Z,Monterrey Stadium,50987,Yael FALCON PEREZ,Sweden,Tunisia,SWE,TUN,5,1,0,1
+400021475,36,289273,289273,Group stage,True,Group F,2026-06-21T04:00:00Z,Monterrey Stadium,51243,Istvan KOVACS,Tunisia,Japan,TUN,JPN,0,4,0,0
+400021476,15,289273,289273,Group stage,True,Group G,2026-06-16T01:00:00Z,Los Angeles Stadium,70108,Cesar RAMOS,IR Iran,New Zealand,IRN,NZL,2,2,1,0
+400021477,39,289273,289273,Group stage,True,Group G,2026-06-21T19:00:00Z,Los Angeles Stadium,70317,Dario HERRERA,Belgium,IR Iran,BEL,IRN,0,0,2,1
+400021478,16,289273,289273,Group stage,True,Group G,2026-06-15T19:00:00Z,Seattle Stadium,66775,Ramon ABATTI,Belgium,Egypt,BEL,EGY,1,1,2,2
+400021479,63,289273,289273,Group stage,True,Group G,2026-06-27T03:00:00Z,Seattle Stadium,66925,Szymon MARCINIAK,Egypt,IR Iran,EGY,IRN,1,1,3,4
+400021480,40,289273,289273,Group stage,True,Group G,2026-06-22T01:00:00Z,BC Place Vancouver,52497,Omar ALALI,New Zealand,Egypt,NZL,EGY,1,3,2,1
+400021481,64,289273,289273,Group stage,True,Group G,2026-06-27T03:00:00Z,BC Place Vancouver,52497,Adham MAKHADMEH,New Zealand,Belgium,NZL,BEL,1,5,2,0
+400021482,14,289273,289273,Group stage,True,Group H,2026-06-15T16:00:00Z,Atlanta Stadium,67640,Adham MAKHADMEH,Spain,Cabo Verde,ESP,CPV,0,0,1,1
+400021483,38,289273,289273,Group stage,True,Group H,2026-06-21T16:00:00Z,Atlanta Stadium,68239,Raphael CLAUS,Spain,Saudi Arabia,ESP,KSA,4,0,0,2
+400021484,66,289273,289273,Group stage,True,Group H,2026-06-27T00:00:00Z,Guadalajara Stadium,45065,Ismail ELFATH,Uruguay,Spain,URU,ESP,0,1,4,1
+400021485,65,289273,289273,Group stage,True,Group H,2026-06-27T00:00:00Z,Houston Stadium,68278,Francois LETEXIER,Cabo Verde,Saudi Arabia,CPV,KSA,0,0,1,3
+400021486,13,289273,289273,Group stage,True,Group H,2026-06-15T22:00:00Z,Miami Stadium,62764,Maurizio MARIANI,Saudi Arabia,Uruguay,KSA,URU,1,1,1,0
+400021487,37,289273,289273,Group stage,True,Group H,2026-06-21T22:00:00Z,Miami Stadium,64003,Espen ESKAS,Uruguay,Cabo Verde,URU,CPV,2,2,2,2
+400021488,18,289273,289273,Group stage,True,Group I,2026-06-16T22:00:00Z,Boston Stadium,63106,Pierre ATCHO,Iraq,Norway,IRQ,NOR,1,4,1,0
+400021489,61,289273,289273,Group stage,True,Group I,2026-06-26T19:00:00Z,Boston Stadium,64146,Michael OLIVER,Norway,France,NOR,FRA,1,4,1,1
+400021490,17,289273,289273,Group stage,True,Group I,2026-06-16T19:00:00Z,New York/New Jersey Stadium,80545,Alireza FAGHANI,France,Senegal,FRA,SEN,3,1,0,0
+400021491,41,289273,289273,Group stage,True,Group I,2026-06-23T00:00:00Z,New York/New Jersey Stadium,80663,Wilton SAMPAIO,Norway,Senegal,NOR,SEN,3,2,0,0
+400021492,42,289273,289273,Group stage,True,Group I,2026-06-22T21:00:00Z,Philadelphia Stadium,68324,Drew FISCHER,France,Iraq,FRA,IRQ,3,0,0,1
+400021493,62,289273,289273,Group stage,True,Group I,2026-06-26T19:00:00Z,Toronto Stadium,43036,Anthony TAYLOR,Senegal,Iraq,SEN,IRQ,5,0,2,3
+400021494,43,289273,289273,Group stage,True,Group J,2026-06-22T17:00:00Z,Dallas Stadium,70649,Amin MOHAMED,Argentina,Austria,ARG,AUT,2,0,2,2
+400021495,70,289273,289273,Group stage,True,Group J,2026-06-28T02:00:00Z,Dallas Stadium,70649,Istvan KOVACS,Jordan,Argentina,JOR,ARG,1,3,3,0
+400021496,19,289273,289273,Group stage,True,Group J,2026-06-17T01:00:00Z,Kansas City Stadium,69045,Szymon MARCINIAK,Argentina,Algeria,ARG,ALG,3,0,0,0
+400021497,69,289273,289273,Group stage,True,Group J,2026-06-28T02:00:00Z,Kansas City Stadium,69045,Ilgiz TANTASHEV,Algeria,Austria,ALG,AUT,3,3,0,1
+400021498,20,289273,289273,Group stage,True,Group J,2026-06-17T04:00:00Z,San Francisco Bay Area Stadium,68527,Dahane BEIDA,Austria,Jordan,AUT,JOR,3,1,1,0
+400021499,44,289273,289273,Group stage,True,Group J,2026-06-23T03:00:00Z,San Francisco Bay Area Stadium,68371,Slavko VINCIC,Jordan,Algeria,JOR,ALG,1,2,1,1
+400021500,72,289273,289273,Group stage,True,Group K,2026-06-27T23:30:00Z,Atlanta Stadium,68239,Felix ZWAYER,Congo DR,Uzbekistan,COD,UZB,3,1,3,2
+400021501,48,289273,289273,Group stage,True,Group K,2026-06-24T02:00:00Z,Guadalajara Stadium,45358,Maurizio MARIANI,Colombia,Congo DR,COL,COD,1,0,2,1
+400021502,23,289273,289273,Group stage,True,Group K,2026-06-17T17:00:00Z,Houston Stadium,68777,Abdulrahman ALJASSIM,Portugal,Congo DR,POR,COD,1,1,3,1
+400021503,47,289273,289273,Group stage,True,Group K,2026-06-23T17:00:00Z,Houston Stadium,68777,Jalal JAYED,Portugal,Uzbekistan,POR,UZB,5,0,1,1
+400021504,24,289273,289273,Group stage,True,Group K,2026-06-18T02:00:00Z,Mexico City Stadium,80824,Anthony TAYLOR,Uzbekistan,Colombia,UZB,COL,1,3,1,1
+400021505,71,289273,289273,Group stage,True,Group K,2026-06-27T23:30:00Z,Miami Stadium,64478,Alireza FAGHANI,Colombia,Portugal,COL,POR,0,0,1,0
+400021506,45,289273,289273,Group stage,True,Group L,2026-06-23T20:00:00Z,Boston Stadium,63983,Said MARTINEZ,England,Ghana,ENG,GHA,0,0,1,1
+400021507,22,289273,289273,Group stage,True,Group L,2026-06-17T20:00:00Z,Dallas Stadium,70389,Clement TURPIN,England,Croatia,ENG,CRO,4,2,0,0
+400021508,67,289273,289273,Group stage,True,Group L,2026-06-27T21:00:00Z,New York/New Jersey Stadium,80663,Abdulrahman ALJASSIM,Panama,England,PAN,ENG,0,2,2,1
+400021509,68,289273,289273,Group stage,True,Group L,2026-06-27T21:00:00Z,Philadelphia Stadium,68324,Drew FISCHER,Croatia,Ghana,CRO,GHA,2,1,1,1
+400021510,21,289273,289273,Group stage,True,Group L,2026-06-17T23:00:00Z,Toronto Stadium,42942,Glenn NYBERG,Ghana,Panama,GHA,PAN,1,0,1,2
+400021511,46,289273,289273,Group stage,True,Group L,2026-06-23T23:00:00Z,Toronto Stadium,43036,Pierre ATCHO,Panama,Croatia,PAN,CRO,0,1,1,1
+400021512,80,289287,289287,Round of 32,False,,2026-07-01T16:00:00Z,Atlanta Stadium,68239,Adham MAKHADMEH,England,Congo DR,ENG,COD,2,1,1,1
+400021513,74,289287,289287,Round of 32,False,,2026-06-29T20:30:00Z,Boston Stadium,63945,Jalal JAYED,Germany,Paraguay,GER,PAR,1,1,4,4
+400021514,78,289287,289287,Round of 32,False,,2026-06-30T17:00:00Z,Dallas Stadium,69665,Jesus VALENZUELA,Côte d'Ivoire,Norway,CIV,NOR,1,2,0,1
+400021515,88,289287,289287,Round of 32,False,,2026-07-03T18:00:00Z,Dallas Stadium,70244,Gustavo TEJERA,Australia,Egypt,AUS,EGY,1,1,0,3
+400021516,76,289287,289287,Round of 32,False,,2026-06-29T17:00:00Z,Houston Stadium,68777,Maurizio MARIANI,Brazil,Japan,BRA,JPN,2,1,2,3
+400021517,87,289287,289287,Round of 32,False,,2026-07-04T01:30:00Z,Kansas City Stadium,69045,Clement TURPIN,Colombia,Ghana,COL,GHA,1,0,2,3
+400021518,73,289287,289287,Round of 32,False,,2026-06-28T19:00:00Z,Los Angeles Stadium,69237,Joao PINHEIRO,South Africa,Canada,RSA,CAN,0,1,0,2
+400021519,84,289287,289287,Round of 32,False,,2026-07-02T19:00:00Z,Los Angeles Stadium,70492,Glenn NYBERG,Spain,Austria,ESP,AUT,3,0,0,1
+400021520,79,289287,289287,Round of 32,False,,2026-07-01T02:00:00Z,Mexico City Stadium,80824,Slavko VINCIC,Mexico,Ecuador,MEX,ECU,2,0,0,4
+400021521,86,289287,289287,Round of 32,False,,2026-07-03T22:00:00Z,Miami Stadium,64478,Drew FISCHER,Argentina,Cabo Verde,ARG,CPV,3,2,1,1
+400021522,75,289287,289287,Round of 32,False,,2026-06-30T01:00:00Z,Monterrey Stadium,51243,Wilton SAMPAIO,Netherlands,Morocco,NED,MAR,1,1,0,1
+400021523,77,289287,289287,Round of 32,False,,2026-06-30T21:00:00Z,New York/New Jersey Stadium,80663,Danny MAKKELIE,France,Sweden,FRA,SWE,3,0,0,0
+400021524,81,289287,289287,Round of 32,False,,2026-07-02T00:00:00Z,San Francisco Bay Area Stadium,68827,Raphael CLAUS,USA,Bosnia and Herzegovina,USA,BIH,2,0,1,2
+400021525,82,289287,289287,Round of 32,False,,2026-07-01T20:00:00Z,Seattle Stadium,66925,Said MARTINEZ,Belgium,Senegal,BEL,SEN,3,2,2,1
+400021526,83,289287,289287,Round of 32,False,,2026-07-02T23:00:00Z,Toronto Stadium,43036,Espen ESKAS,Portugal,Croatia,POR,CRO,2,1,1,2
+400021527,85,289287,289287,Round of 32,False,,2026-07-03T03:00:00Z,BC Place Vancouver,52497,Yael FALCON PEREZ,Switzerland,Algeria,SUI,ALG,2,0,0,2
+400021528,95,289288,289288,Round of 16,False,,2026-07-07T16:00:00Z,Atlanta Stadium,68239,Francois LETEXIER,Argentina,Egypt,ARG,EGY,3,2,0,7
+400021529,93,289288,289288,Round of 16,False,,2026-07-06T19:00:00Z,Dallas Stadium,70649,Anthony TAYLOR,Portugal,Spain,POR,ESP,0,1,2,1
+400021530,90,289288,289288,Round of 16,False,,2026-07-04T17:00:00Z,Houston Stadium,68777,Michael OLIVER,Canada,Morocco,CAN,MAR,0,3,4,4
+400021531,92,289288,289288,Round of 16,False,,2026-07-06T01:00:00Z,Mexico City Stadium,80824,Alireza FAGHANI,Mexico,England,MEX,ENG,2,3,2,5
+400021532,91,289288,289288,Round of 16,False,,2026-07-05T20:00:00Z,New York/New Jersey Stadium,80663,Ismail ELFATH,Brazil,Norway,BRA,NOR,1,2,1,0
+400021533,89,289288,289288,Round of 16,False,,2026-07-04T21:00:00Z,Philadelphia Stadium,68324,Ilgiz TANTASHEV,Paraguay,France,PAR,FRA,0,1,1,3
+400021534,94,289288,289288,Round of 16,False,,2026-07-07T00:00:00Z,Seattle Stadium,66925,Adham MAKHADMEH,USA,Belgium,USA,BEL,1,4,2,0
+400021535,96,289288,289288,Round of 16,False,,2026-07-07T20:00:00Z,BC Place Vancouver,52497,Ivan BARTON,Switzerland,Colombia,SUI,COL,0,0,3,3
+400021536,97,289289,289289,Quarter-final,False,,2026-07-09T20:00:00Z,Boston Stadium,63811,Facundo TELLO,France,Morocco,FRA,MAR,2,0,0,1
+400021537,100,289289,289289,Quarter-final,False,,2026-07-12T01:00:00Z,Kansas City Stadium,69045,Joao PINHEIRO,Argentina,Switzerland,ARG,SUI,3,1,3,2
+400021538,98,289289,289289,Quarter-final,False,,2026-07-10T19:00:00Z,Los Angeles Stadium,70492,Michael OLIVER,Spain,Belgium,ESP,BEL,2,1,2,2
+400021539,99,289289,289289,Quarter-final,False,,2026-07-11T21:00:00Z,Miami Stadium,64478,Clement TURPIN,Norway,England,NOR,ENG,1,2,1,0
+400021540,102,289290,289290,Semi-final,False,,2026-07-15T19:00:00Z,Atlanta Stadium,68239,Ismail ELFATH,England,Argentina,ENG,ARG,1,2,1,3
+400021541,101,289290,289290,Semi-final,False,,2026-07-14T19:00:00Z,Dallas Stadium,70176,Ivan BARTON,France,Spain,FRA,ESP,0,2,2,1
+400021542,103,289291,289291,Third place play-off,False,,2026-07-18T21:00:00Z,Miami Stadium,64478,Jesus VALENZUELA,France,England,FRA,ENG,4,6,0,0
+400021543,104,289292,289292,Final,False,,2026-07-19T19:00:00Z,New York/New Jersey Stadium,80663,Slavko VINCIC,Spain,Argentina,ESP,ARG,1,0,0,7

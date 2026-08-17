@@ -42,7 +42,9 @@ def parse_match(payload, stage_id, stage_name, is_group):
         "match_id": payload.get("IdMatch"),
         "match_number": payload.get("MatchNumber"),
         "stage_id": stage_id,
-        "stage_name": stage_name,
+        # What FIFA itself says the stage is. config.py hardcodes the stage
+        "api_stage_id": payload.get("IdStage"),   # boundaries, so this column
+        "stage_name": stage_name,                 # lets main() prove they agree.
         "is_group_stage": is_group,
         "group_name": _first_desc(payload.get("GroupName")),
         "date_utc": payload.get("Date"),
@@ -51,8 +53,9 @@ def parse_match(payload, stage_id, stage_name, is_group):
         "referee": referee,
         "home_team": _first_desc(home.get("TeamName")),
         "away_team": _first_desc(away.get("TeamName")),
-        "home_abbr": _first_desc(home.get("Abbreviation")),
-        "away_abbr": _first_desc(away.get("Abbreviation")),
+        # Abbreviation is a plain string here, not a localised list.
+        "home_abbr": home.get("Abbreviation") or home.get("IdCountry"),
+        "away_abbr": away.get("Abbreviation") or away.get("IdCountry"),
         "home_score": home.get("Score"),
         "away_score": away.get("Score"),
         "home_bookings": len(home.get("Bookings") or []),
@@ -103,6 +106,15 @@ def main():
 
     print("\nMatches per stage:")
     print(df.groupby("stage_name", sort=False).size().to_string())
+
+    # The group-vs-knockout split is the grouping variable for the discipline
+    # task, so prove the hardcoded stage map agrees with what FIFA returns.
+    mismatch = df[df["stage_id"].astype(str) != df["api_stage_id"].astype(str)]
+    if len(mismatch):
+        print(f"\n!! STAGE MISMATCH on {len(mismatch)} matches — config.py is wrong:")
+        print(mismatch[["match_id", "stage_id", "api_stage_id", "stage_name"]].to_string(index=False))
+    else:
+        print(f"\nStage check: all {len(df)} matches agree with FIFA's own IdStage.")
 
 
 if __name__ == "__main__":
