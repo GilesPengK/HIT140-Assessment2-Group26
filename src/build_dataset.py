@@ -33,7 +33,11 @@ import pandas as pd
 from config import RAW, CLEAN
 
 PAGES = RAW / "pages"
-MARKER = "FIFA Official Stats"
+
+# Most match pages label the panel "FIFA Official Stats", but not all of them do
+# (match 400021478 renders the panels with no heading at all). So the parser
+# anchors on whichever of these appears first rather than on one fixed string.
+ANCHORS = ("FIFA Official Stats", "Attacking", "Possession", "Discipline")
 
 # Section header -> labels that follow it, in page order.
 SECTIONS = {
@@ -83,10 +87,11 @@ def _clean_num(s):
 
 def parse_page(text):
     """Return {'home': {...}, 'away': {...}} of stat -> value, or None."""
-    if MARKER not in text:
+    starts = [text.index(a) for a in ANCHORS if a in text]
+    if not starts:
         return None
 
-    lines = [ln.strip() for ln in text[text.index(MARKER):].split("\n")]
+    lines = [ln.strip() for ln in text[min(starts):].split("\n")]
     lines = [ln for ln in lines if ln]
 
     home, away = {}, {}

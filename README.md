@@ -58,6 +58,23 @@ public JSON endpoint for them. Checked and ruled out:
 Step 1 is deliberately kept browser-free so the metadata can be refreshed
 cheaply on its own.
 
+### Two obstacles the scraper works around
+
+**The bot-detection script crashes headless Chromium.** fifa.com serves an
+Akamai sensor script from an obfuscated same-origin path with no file
+extension. With a CDP client attached it kills the browser process with
+`SIGTRAP` a few seconds into the page load — the failure looks like
+`TargetClosedError`, which reads as a timeout and sends you looking in the
+wrong place. Aborting that single request fixes it, and the statistics still
+render because they are fetched separately.
+
+**The stats mount lazily on scroll.** The scraper scrolls to the bottom and
+re-reads until the `FIFA Official Stats` marker appears, up to six rounds.
+
+Both are worth a line in the presentation: they are concrete examples of
+non-trivial data acquisition, and of alternatives explored before settling on
+an approach.
+
 ---
 
 ## `team_match.csv`
