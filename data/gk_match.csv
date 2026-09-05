@@ -1,0 +1,216 @@
+date,round,Player,Team,opponent,minutes,shots_on_target_against,goals_against,saves,save_pct,advanced_to_knockout
+2026-06-16,Group stage,Yazeed Abulaila,Jordan,at Austria,90,4.0,3,1.0,25.0,False
+2026-06-22,Group stage,Yazeed Abulaila,Jordan,dz Algeria,90,8.0,2,6.0,75.0,False
+2026-06-27,Group stage,Yazeed Abulaila,Jordan,ar Argentina,90,4.0,3,1.0,25.0,False
+2026-06-13,Group stage,Mahmoud Abunada,Qatar,ch Switzerland,90,6.0,1,5.0,83.3,False
+2026-06-18,Group stage,Mahmoud Abunada,Qatar,ca Canada,90,10.0,6,4.0,40.0,False
+2026-06-24,Group stage,Mahmoud Abunada,Qatar,ba Bosnia-Herz,90,6.0,3,3.0,50.0,False
+2026-06-13,Group stage,Alisson,Brazil,ma Morocco,90,3.0,1,2.0,66.7,True
+2026-06-19,Group stage,Alisson,Brazil,ht Haiti,90,3.0,0,3.0,100.0,True
+2026-06-24,Group stage,Alisson,Brazil,sct Scotland,90,5.0,0,5.0,100.0,True
+2026-06-29,Round of 32,Alisson,Brazil,jp Japan,90,2.0,1,1.0,50.0,True
+2026-07-05,Round of 16,Alisson,Brazil,no Norway,90,5.0,2,3.0,60.0,True
+2026-06-17,Group stage,Benjamin Asare,Ghana,pa Panama,45,3.0,0,3.0,100.0,True
+2026-06-23,Group stage,Benjamin Asare,Ghana,eng England,90,3.0,0,3.0,100.0,True
+2026-06-27,Group stage,Benjamin Asare,Ghana,hr Croatia,90,4.0,2,2.0,50.0,True
+2026-06-17,Group stage,Lawrence Ati-Zigi,Ghana,pa Panama,45,1.0,0,1.0,100.0,True
+2026-07-03,Round of 32,Lawrence Ati-Zigi,Ghana,co Colombia,90,8.0,1,7.0,87.5,True
+2026-06-22,Group stage,Ahmed Basil,Iraq,fr France,90,5.0,3,2.0,40.0,False
+2026-06-26,Group stage,Ahmed Basil,Iraq,sn Senegal,45,2.0,1,1.0,50.0,False
+2026-06-13,Group stage,Patrick Beach,Australia,tr Turkiye,90,8.0,0,8.0,100.0,True
+2026-06-19,Group stage,Patrick Beach,Australia,us USA,90,3.0,2,1.0,33.3,True
+2026-06-25,Group stage,Patrick Beach,Australia,py Paraguay,90,2.0,0,2.0,100.0,True
+2026-07-03,Round of 32,Patrick Beach,Australia,eg Egypt,118,4.0,1,3.0,75.0,True
+2026-06-15,Group stage,Alireza Beiranvand,IR Iran,nz New Zealand,90,8.0,2,6.0,75.0,False
+2026-06-21,Group stage,Alireza Beiranvand,IR Iran,be Belgium,90,7.0,0,7.0,100.0,False
+2026-06-26,Group stage,Alireza Beiranvand,IR Iran,eg Egypt,90,3.0,1,2.0,66.7,False
+2026-06-27,Group stage,Oussama Benbot,Algeria,at Austria,90,3.0,3,0.0,0.0,True
+2026-06-13,Group stage,Yassine Bounou,Morocco,br Brazil,90,5.0,1,4.0,80.0,True
+2026-06-19,Group stage,Yassine Bounou,Morocco,sct Scotland,90,0.0,0,0.0,,True
+2026-06-24,Group stage,Yassine Bounou,Morocco,ht Haiti,90,3.0,2,1.0,33.3,True
+2026-06-29,Round of 32,Yassine Bounou,Morocco,nl Netherlands,120,2.0,1,1.0,50.0,True
+2026-07-04,Round of 16,Yassine Bounou,Morocco,ca Canada,90,3.0,0,3.0,100.0,True
+2026-07-09,Quarter-finals,Yassine Bounou,Morocco,fr France,90,7.0,2,5.0,71.4,True
+2026-06-13,Group stage,Ugurcan Cakir,Turkiye,au Australia,90,4.0,2,2.0,50.0,False
+2026-06-19,Group stage,Ugurcan Cakir,Turkiye,py Paraguay,90,2.0,1,1.0,50.0,False
+2026-06-25,Group stage,Ugurcan Cakir,Turkiye,us USA,90,7.0,2,5.0,71.4,False
+2026-06-14,Group stage,Mouhib Chamakh,Tunisia,se Sweden,90,6.0,5,1.0,16.7,False
+2026-06-17,Group stage,Diogo Costa,Portugal,cd Congo DR,90,2.0,1,1.0,50.0,True
+2026-06-23,Group stage,Diogo Costa,Portugal,uz Uzbekistan,90,2.0,0,2.0,100.0,True
+2026-06-27,Group stage,Diogo Costa,Portugal,co Colombia,90,6.0,0,6.0,100.0,True
+2026-07-02,Round of 32,Diogo Costa,Portugal,hr Croatia,90,6.0,1,5.0,83.3,True
+2026-07-06,Round of 16,Diogo Costa,Portugal,es Spain,90,6.0,1,5.0,83.3,True
+2026-06-15,Group stage,Thibaut Courtois,Belgium,eg Egypt,90,3.0,1,2.0,66.7,True
+2026-06-21,Group stage,Thibaut Courtois,Belgium,ir IR Iran,90,3.0,0,3.0,100.0,True
+2026-06-26,Group stage,Thibaut Courtois,Belgium,nz New Zealand,90,2.0,1,1.0,50.0,True
+2026-07-01,Round of 32,Thibaut Courtois,Belgium,sn Senegal,120,5.0,2,3.0,60.0,True
+2026-07-06,Round of 16,Thibaut Courtois,Belgium,us USA,90,2.0,1,1.0,50.0,True
+2026-07-10,Quarter-finals,Thibaut Courtois,Belgium,es Spain,70,5.0,1,4.0,80.0,True
+2026-06-12,Group stage,Maxime Crepeau,Canada,ba Bosnia-Herz,90,3.0,1,2.0,66.7,True
+2026-06-18,Group stage,Maxime Crepeau,Canada,qa Qatar,90,0.0,0,0.0,,True
+2026-06-24,Group stage,Maxime Crepeau,Canada,ch Switzerland,90,4.0,2,2.0,50.0,True
+2026-06-28,Round of 32,Maxime Crepeau,Canada,za South Africa,90,1.0,0,1.0,100.0,True
+2026-07-04,Round of 16,Maxime Crepeau,Canada,ma Morocco,90,4.0,3,1.0,25.0,True
+2026-06-15,Group stage,Max Crocombe,New Zealand,ir IR Iran,90,4.0,2,2.0,50.0,False
+2026-06-21,Group stage,Max Crocombe,New Zealand,eg Egypt,90,7.0,3,4.0,57.1,False
+2026-06-26,Group stage,Max Crocombe,New Zealand,be Belgium,90,10.0,5,5.0,50.0,False
+2026-06-20,Group stage,Aymen Dahmen,Tunisia,jp Japan,90,5.0,4,1.0,20.0,False
+2026-06-25,Group stage,Aymen Dahmen,Tunisia,nl Netherlands,90,7.0,3,4.0,57.1,False
+2026-06-22,Group stage,Mory Diaw,Senegal,no Norway,28,0.0,0,0.0,,True
+2026-06-26,Group stage,Mory Diaw,Senegal,iq Iraq,90,1.0,0,1.0,100.0,True
+2026-07-01,Round of 32,Mory Diaw,Senegal,be Belgium,120,6.0,3,3.0,50.0,True
+2026-06-14,Group stage,Yahia Fofana,Cote d'Ivoire,ec Ecuador,90,1.0,0,1.0,100.0,True
+2026-06-20,Group stage,Yahia Fofana,Cote d'Ivoire,de Germany,90,7.0,2,5.0,71.4,True
+2026-06-25,Group stage,Yahia Fofana,Cote d'Ivoire,cw Curacao,90,2.0,0,2.0,100.0,True
+2026-06-30,Round of 32,Yahia Fofana,Cote d'Ivoire,no Norway,90,3.0,2,1.0,33.3,True
+2026-06-12,Group stage,Matt Freese,United States,py Paraguay,90,1.0,1,0.0,0.0,True
+2026-06-19,Group stage,Matt Freese,United States,au Australia,90,2.0,0,2.0,100.0,True
+2026-07-01,Round of 32,Matt Freese,United States,ba Bosnia-Herz,90,3.0,0,3.0,100.0,True
+2026-07-06,Round of 16,Matt Freese,United States,be Belgium,90,7.0,4,3.0,42.9,True
+2026-06-14,Group stage,Hernan Galindez,Ecuador,ci Cote d'Ivoire,90,4.0,1,3.0,75.0,True
+2026-06-20,Group stage,Hernan Galindez,Ecuador,cw Curacao,90,3.0,0,3.0,100.0,True
+2026-06-25,Group stage,Hernan Galindez,Ecuador,de Germany,90,3.0,1,2.0,66.7,True
+2026-06-30,Round of 32,Hernan Galindez,Ecuador,mx Mexico,90,3.0,2,1.0,33.3,True
+2026-06-12,Group stage,Orlando Gill,Paraguay,us USA,90,7.0,4,3.0,42.9,True
+2026-06-19,Group stage,Orlando Gill,Paraguay,tr Turkiye,90,5.0,0,5.0,100.0,True
+2026-06-25,Group stage,Orlando Gill,Paraguay,au Australia,90,5.0,0,5.0,100.0,True
+2026-06-29,Round of 32,Orlando Gill,Paraguay,de Germany,120,7.0,1,6.0,85.7,True
+2026-07-04,Round of 16,Orlando Gill,Paraguay,fr France,90,5.0,1,4.0,80.0,True
+2026-06-13,Group stage,Angus Gunn,Scotland,ht Haiti,90,2.0,0,2.0,100.0,False
+2026-06-19,Group stage,Angus Gunn,Scotland,ma Morocco,90,2.0,1,1.0,50.0,False
+2026-06-24,Group stage,Angus Gunn,Scotland,br Brazil,90,8.0,3,5.0,62.5,False
+2026-06-16,Group stage,Jalal Hassan,Iraq,no Norway,90,6.0,4,2.0,33.3,False
+2026-06-26,Group stage,Jalal Hassan,Iraq,sn Senegal,45,10.0,4,6.0,60.0,False
+2026-07-18,Third-place match,Dean Henderson,England,fr France,90,9.0,4,5.0,55.6,True
+2026-06-13,Group stage,Gregor Kobel,Switzerland,qa Qatar,90,4.0,1,3.0,75.0,True
+2026-06-18,Group stage,Gregor Kobel,Switzerland,ba Bosnia-Herz,90,3.0,1,2.0,66.7,True
+2026-06-24,Group stage,Gregor Kobel,Switzerland,ca Canada,90,7.0,1,6.0,85.7,True
+2026-07-02,Round of 32,Gregor Kobel,Switzerland,dz Algeria,90,2.0,0,2.0,100.0,True
+2026-07-07,Round of 16,Gregor Kobel,Switzerland,co Colombia,120,3.0,0,3.0,100.0,True
+2026-07-11,Quarter-finals,Gregor Kobel,Switzerland,ar Argentina,120,7.0,3,4.0,57.1,True
+2026-06-11,Group stage,Matej Kovar,Czechia,kr Korea Republic,90,6.0,2,4.0,66.7,False
+2026-06-18,Group stage,Matej Kovar,Czechia,za South Africa,90,4.0,1,3.0,75.0,False
+2026-06-24,Group stage,Matej Kovar,Czechia,mx Mexico,90,5.0,3,2.0,40.0,False
+2026-07-10,Quarter-finals,Senne Lammens,Belgium,es Spain,20,3.0,1,2.0,66.7,True
+2026-06-17,Group stage,Dominik Livakovic,Croatia,eng England,90,11.0,4,7.0,63.6,True
+2026-06-23,Group stage,Dominik Livakovic,Croatia,pa Panama,90,1.0,0,1.0,100.0,True
+2026-06-27,Group stage,Dominik Livakovic,Croatia,gh Ghana,90,1.0,1,0.0,0.0,True
+2026-07-02,Round of 32,Dominik Livakovic,Croatia,pt Portugal,90,4.0,2,2.0,50.0,True
+2026-06-16,Group stage,Mike Maignan,France,sn Senegal,90,3.0,1,2.0,66.7,True
+2026-06-22,Group stage,Mike Maignan,France,iq Iraq,90,0.0,0,0.0,,True
+2026-06-26,Group stage,Mike Maignan,France,no Norway,90,3.0,1,2.0,66.7,True
+2026-06-30,Round of 32,Mike Maignan,France,se Sweden,90,3.0,0,3.0,100.0,True
+2026-07-04,Round of 16,Mike Maignan,France,py Paraguay,90,0.0,0,0.0,,True
+2026-07-09,Quarter-finals,Mike Maignan,France,ma Morocco,90,1.0,0,1.0,100.0,True
+2026-07-14,Semi-finals,Mike Maignan,France,es Spain,90,2.0,2,0.0,0.0,True
+2026-07-18,Third-place match,Mike Maignan,France,eng England,90,10.0,6,4.0,40.0,True
+2026-06-16,Group stage,Emiliano Martinez,Argentina,dz Algeria,90,0.0,0,0.0,,True
+2026-06-22,Group stage,Emiliano Martinez,Argentina,at Austria,90,1.0,0,1.0,100.0,True
+2026-06-27,Group stage,Emiliano Martinez,Argentina,jo Jordan,90,1.0,1,0.0,0.0,True
+2026-07-03,Round of 32,Emiliano Martinez,Argentina,cv Cabo Verde,120,5.0,2,3.0,60.0,True
+2026-07-07,Round of 16,Emiliano Martinez,Argentina,eg Egypt,90,2.0,2,0.0,0.0,True
+2026-07-11,Quarter-finals,Emiliano Martinez,Argentina,ch Switzerland,120,5.0,1,4.0,80.0,True
+2026-07-15,Semi-finals,Emiliano Martinez,Argentina,eng England,90,2.0,1,1.0,50.0,True
+2026-07-19,Final,Emiliano Martinez,Argentina,es Spain,120,12.0,1,11.0,91.7,True
+2026-06-16,Group stage,Edouard Mendy,Senegal,fr France,90,8.0,3,5.0,62.5,True
+2026-06-22,Group stage,Edouard Mendy,Senegal,no Norway,62,6.0,3,3.0,50.0,True
+2026-06-17,Group stage,Orlando Mosquera,Panama,gh Ghana,90,3.0,1,2.0,66.7,False
+2026-06-23,Group stage,Orlando Mosquera,Panama,hr Croatia,90,2.0,1,1.0,50.0,False
+2026-06-27,Group stage,Orlando Mosquera,Panama,eng England,90,6.0,2,4.0,66.7,False
+2026-06-17,Group stage,Lionel Mpasi,Congo DR,pt Portugal,90,1.0,1,0.0,0.0,True
+2026-06-23,Group stage,Lionel Mpasi,Congo DR,co Colombia,90,9.0,1,8.0,88.9,True
+2026-06-27,Group stage,Lionel Mpasi,Congo DR,uz Uzbekistan,90,2.0,1,1.0,50.0,True
+2026-07-01,Round of 32,Lionel Mpasi,Congo DR,eng England,90,7.0,2,5.0,71.4,True
+2026-06-15,Group stage,Fernando Muslera,Uruguay,sa Saudi Arabia,90,3.0,1,2.0,66.7,False
+2026-06-21,Group stage,Fernando Muslera,Uruguay,cv Cabo Verde,90,4.0,2,2.0,50.0,False
+2026-06-26,Group stage,Fernando Muslera,Uruguay,es Spain,45,1.0,1,0.0,0.0,False
+2026-06-23,Group stage,Abduvohid Nematov,Uzbekistan,pt Portugal,90,9.0,5,4.0,44.4,False
+2026-06-27,Group stage,Abduvohid Nematov,Uzbekistan,cd Congo DR,90,4.0,3,1.0,25.0,False
+2026-06-14,Group stage,Manuel Neuer,Germany,cw Curacao,90,2.0,1,1.0,50.0,True
+2026-06-20,Group stage,Manuel Neuer,Germany,ci Cote d'Ivoire,90,2.0,1,1.0,50.0,True
+2026-06-25,Group stage,Manuel Neuer,Germany,ec Ecuador,90,3.0,2,1.0,33.3,True
+2026-06-29,Round of 32,Manuel Neuer,Germany,py Paraguay,120,3.0,1,2.0,66.7,True
+2026-06-14,Group stage,Kristoffer Nordfeldt,Sweden,tn Tunisia,90,2.0,1,1.0,50.0,True
+2026-06-20,Group stage,Kristoffer Nordfeldt,Sweden,nl Netherlands,90,7.0,5,2.0,28.6,True
+2026-06-16,Group stage,Orjan Nyland,Norway,iq Iraq,90,1.0,1,0.0,0.0,True
+2026-06-22,Group stage,Orjan Nyland,Norway,sn Senegal,90,4.0,2,2.0,50.0,True
+2026-06-30,Round of 32,Orjan Nyland,Norway,ci Cote d'Ivoire,90,5.0,1,4.0,80.0,True
+2026-07-05,Round of 16,Orjan Nyland,Norway,br Brazil,90,4.0,1,3.0,75.0,True
+2026-07-11,Quarter-finals,Orjan Nyland,Norway,eng England,120,8.0,2,6.0,75.0,True
+2026-06-24,Group stage,Guillermo Ochoa,Mexico,cz Czechia,13,0.0,0,0.0,,True
+2026-06-15,Group stage,Mohammed Al-Owais,Saudi Arabia,uy Uruguay,90,10.0,1,9.0,90.0,False
+2026-06-21,Group stage,Mohammed Al-Owais,Saudi Arabia,es Spain,90,9.0,4,5.0,55.6,False
+2026-06-26,Group stage,Mohammed Al-Owais,Saudi Arabia,cv Cabo Verde,90,2.0,0,2.0,100.0,False
+2026-06-17,Group stage,Jordan Pickford,England,hr Croatia,90,5.0,2,3.0,60.0,True
+2026-06-23,Group stage,Jordan Pickford,England,gh Ghana,90,0.0,0,0.0,,True
+2026-06-27,Group stage,Jordan Pickford,England,pa Panama,90,2.0,0,2.0,100.0,True
+2026-07-01,Round of 32,Jordan Pickford,England,cd Congo DR,90,2.0,1,1.0,50.0,True
+2026-07-05,Round of 16,Jordan Pickford,England,mx Mexico,90,5.0,2,3.0,60.0,True
+2026-07-11,Quarter-finals,Jordan Pickford,England,no Norway,120,4.0,1,3.0,75.0,True
+2026-07-15,Semi-finals,Jordan Pickford,England,ar Argentina,90,5.0,2,3.0,60.0,True
+2026-06-13,Group stage,Johny Placide,Haiti,sct Scotland,90,2.0,1,1.0,50.0,False
+2026-06-19,Group stage,Johny Placide,Haiti,br Brazil,90,5.0,3,2.0,40.0,False
+2026-06-24,Group stage,Johny Placide,Haiti,ma Morocco,90,12.0,4,8.0,66.7,False
+2026-06-11,Group stage,Raul Rangel,Mexico,za South Africa,90,2.0,0,2.0,100.0,True
+2026-06-18,Group stage,Raul Rangel,Mexico,kr Korea Republic,90,2.0,0,2.0,100.0,True
+2026-06-24,Group stage,Raul Rangel,Mexico,cz Czechia,77,1.0,0,1.0,100.0,True
+2026-06-30,Round of 32,Raul Rangel,Mexico,ec Ecuador,90,1.0,0,1.0,100.0,True
+2026-07-05,Round of 16,Raul Rangel,Mexico,eng England,90,5.0,3,2.0,40.0,True
+2026-06-26,Group stage,Sergio Rochet,Uruguay,es Spain,45,0.0,0,0.0,,False
+2026-06-14,Group stage,Eloy Room,Curacao,de Germany,90,11.0,7,4.0,36.4,False
+2026-06-20,Group stage,Eloy Room,Curacao,ec Ecuador,90,15.0,0,15.0,100.0,False
+2026-06-25,Group stage,Eloy Room,Curacao,ci Cote d'Ivoire,90,3.0,2,1.0,33.3,False
+2026-07-03,Round of 32,Mathew Ryan,Australia,eg Egypt,2,0.0,0,0.0,,True
+2026-06-16,Group stage,Alexander Schlager,Austria,jo Jordan,90,4.0,1,3.0,75.0,True
+2026-06-22,Group stage,Alexander Schlager,Austria,ar Argentina,90,4.0,2,2.0,50.0,True
+2026-06-27,Group stage,Alexander Schlager,Austria,dz Algeria,90,5.0,3,2.0,40.0,True
+2026-07-02,Round of 32,Alexander Schlager,Austria,es Spain,90,9.0,3,6.0,66.7,True
+2026-06-26,Group stage,Egil Selvik,Norway,fr France,90,9.0,4,5.0,55.6,True
+2026-06-11,Group stage,Kim Seung-gyu,Korea Republic,cz Czechia,90,4.0,1,3.0,75.0,False
+2026-06-18,Group stage,Kim Seung-gyu,Korea Republic,mx Mexico,90,4.0,1,3.0,75.0,False
+2026-06-24,Group stage,Kim Seung-gyu,Korea Republic,za South Africa,90,4.0,1,3.0,75.0,False
+2026-06-15,Group stage,Mostafa Shobeir,Egypt,be Belgium,90,4.0,1,3.0,75.0,True
+2026-06-21,Group stage,Mostafa Shobeir,Egypt,nz New Zealand,90,5.0,1,4.0,80.0,True
+2026-06-26,Group stage,Mostafa Shobeir,Egypt,ir IR Iran,90,2.0,1,1.0,50.0,True
+2026-07-03,Round of 32,Mostafa Shobeir,Egypt,au Australia,120,2.0,1,1.0,50.0,True
+2026-07-07,Round of 16,Mostafa Shobeir,Egypt,ar Argentina,90,6.0,3,3.0,50.0,True
+2026-06-15,Group stage,Unai Simon,Spain,cv Cabo Verde,90,1.0,0,1.0,100.0,True
+2026-06-21,Group stage,Unai Simon,Spain,sa Saudi Arabia,90,1.0,0,1.0,100.0,True
+2026-06-26,Group stage,Unai Simon,Spain,uy Uruguay,90,2.0,0,1.0,100.0,True
+2026-07-02,Round of 32,Unai Simon,Spain,at Austria,90,0.0,0,0.0,,True
+2026-07-06,Round of 16,Unai Simon,Spain,pt Portugal,90,2.0,0,2.0,100.0,True
+2026-07-10,Quarter-finals,Unai Simon,Spain,be Belgium,90,2.0,1,1.0,50.0,True
+2026-07-14,Semi-finals,Unai Simon,Spain,fr France,90,3.0,0,3.0,100.0,True
+2026-07-19,Final,Unai Simon,Spain,ar Argentina,120,0.0,0,0.0,,True
+2026-06-14,Group stage,Zion Suzuki,Japan,nl Netherlands,90,6.0,2,4.0,66.7,True
+2026-06-20,Group stage,Zion Suzuki,Japan,tn Tunisia,90,0.0,0,0.0,,True
+2026-06-25,Group stage,Zion Suzuki,Japan,se Sweden,90,5.0,1,4.0,80.0,True
+2026-06-29,Round of 32,Zion Suzuki,Japan,br Brazil,90,6.0,2,4.0,66.7,True
+2026-06-25,Group stage,Matt Turner,United States,tr Turkiye,90,3.0,3,0.0,0.0,True
+2026-06-17,Group stage,Camilo Vargas,Colombia,uz Uzbekistan,90,2.0,1,1.0,50.0,True
+2026-06-23,Group stage,Camilo Vargas,Colombia,cd Congo DR,90,1.0,0,1.0,100.0,True
+2026-06-27,Group stage,Camilo Vargas,Colombia,pt Portugal,90,2.0,0,2.0,100.0,True
+2026-07-03,Round of 32,Camilo Vargas,Colombia,gh Ghana,90,0.0,0,0.0,,True
+2026-07-07,Round of 16,Camilo Vargas,Colombia,ch Switzerland,120,2.0,0,2.0,100.0,True
+2026-06-12,Group stage,Nikola Vasilj,Bosnia and Herzegovina,ca Canada,90,2.0,1,1.0,50.0,True
+2026-06-18,Group stage,Nikola Vasilj,Bosnia and Herzegovina,ch Switzerland,90,7.0,4,3.0,42.9,True
+2026-06-24,Group stage,Nikola Vasilj,Bosnia and Herzegovina,qa Qatar,90,3.0,1,2.0,66.7,True
+2026-07-01,Round of 32,Nikola Vasilj,Bosnia and Herzegovina,us United States,90,2.0,2,0.0,0.0,True
+2026-06-14,Group stage,Bart Verbruggen,Netherlands,jp Japan,90,3.0,2,1.0,33.3,True
+2026-06-20,Group stage,Bart Verbruggen,Netherlands,se Sweden,90,8.0,1,7.0,87.5,True
+2026-06-25,Group stage,Bart Verbruggen,Netherlands,tn Tunisia,90,4.0,1,3.0,75.0,True
+2026-06-29,Round of 32,Bart Verbruggen,Netherlands,ma Morocco,120,6.0,1,5.0,83.3,True
+2026-06-15,Group stage,Vozinha,Cabo Verde,es Spain,90,7.0,0,7.0,100.0,True
+2026-06-21,Group stage,Vozinha,Cabo Verde,uy Uruguay,90,2.0,2,0.0,0.0,True
+2026-06-26,Group stage,Vozinha,Cabo Verde,sa Saudi Arabia,90,3.0,0,3.0,100.0,True
+2026-07-03,Round of 32,Vozinha,Cabo Verde,ar Argentina,120,11.0,3,8.0,72.7,True
+2026-06-25,Group stage,Jacob Widell Zetterstrom,Sweden,jp Japan,90,3.0,1,2.0,66.7,True
+2026-06-30,Round of 32,Jacob Widell Zetterstrom,Sweden,fr France,90,12.0,3,9.0,75.0,True
+2026-06-11,Group stage,Ronwen Williams,South Africa,mx Mexico,90,4.0,2,2.0,50.0,True
+2026-06-18,Group stage,Ronwen Williams,South Africa,cz Czechia,90,3.0,1,2.0,66.7,True
+2026-06-24,Group stage,Ronwen Williams,South Africa,kr Korea Republic,90,2.0,0,2.0,100.0,True
+2026-06-28,Round of 32,Ronwen Williams,South Africa,ca Canada,90,6.0,1,5.0,83.3,True
+2026-06-17,Group stage,Utkir Yusupov,Uzbekistan,co Colombia,90,4.0,3,1.0,25.0,False
+2026-06-16,Group stage,Luca Zidane,Algeria,ar Argentina,90,6.0,3,3.0,50.0,True
+2026-06-22,Group stage,Luca Zidane,Algeria,jo Jordan,90,4.0,1,3.0,75.0,True
+2026-07-02,Round of 32,Luca Zidane,Algeria,ch Switzerland,90,4.0,2,2.0,50.0,True
