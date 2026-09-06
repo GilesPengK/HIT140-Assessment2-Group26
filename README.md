@@ -5,8 +5,8 @@ FIFA World Cup 2026 analysis. Four analytic tasks, one per member.
 | Member | Task | Notebook |
 |---|---|---|
 | Sihao Cui | Discipline — fouls, group stage vs knockout | `notebooks/task_discipline_sihao.ipynb` |
-| Peng Song | 'Possession — UEFA teams vs 50% | notebooks/task_possession_peng.ipynb' |
-| Luke Ren | Chance creation — assists per 90, MF vs FW | notebooks/task_assists_luke.ipynb* |
+| Peng Song | Possession — UEFA teams vs 50% | `notebooks/task_possession_peng.ipynb` |
+| Luke Ren | Chance creation — assists per 90, MF vs FW | `notebooks/task_assists_luke.ipynb` |
 | Abel Qin | Goalkeeping — save percentage | `notebooks/task_gk_yadong.ipynb` |
 
 Due **10 September 2026, 14:00 ACST**.
@@ -116,6 +116,23 @@ Column names are fixed. Changing one breaks four people's notebooks.
 | **Total** | **104** | **208** |
 
 ---
+
+## Datasets in this repository
+
+The assessment asks for the datasets as well as the code, so every file an
+analysis reads is committed. Two of the four tasks share the scraped pipeline
+output; the other two use their own source.
+
+| File | Rows | Produced by | Used by |
+|---|---|---|---|
+| `data/raw/match_meta.json` | 104 | `fetch_metadata.py` — FIFA JSON API | the pipeline; the discipline task reads `MatchTime` from it directly |
+| `data/raw/pages/*.txt` | 104 | `scrape_match_stats.py` — rendered match pages | `build_dataset.py` |
+| `data/clean/match_meta.csv` | 104 | `fetch_metadata.py` | `build_dataset.py` |
+| `data/clean/team_match.csv` | 208 | `build_dataset.py` | **discipline** (Sihao), **possession** (Peng) |
+| `data/clean/team_confederation_lookup.csv` | 48 | compiled by hand — FIFA publishes no confederation column | **possession** (Peng) |
+| `data/raw/player_statistics_raw.txt` | 1231 players | the Playwright scraper in the assists notebook, after clicking through all pages | **assists** (Luke) |
+| `data/clean/player_assists_per_90.csv` | 426 | the assists notebook, filtered to MF/FW with 90+ minutes | **assists** (Luke) |
+| `data/gk_match.csv` | 215 | collected by hand from FBref per-goalkeeper match logs — FBref returns HTTP 403 to programmatic requests, so this one is not automated. Each keeper's totals were reconciled against the official tournament summary. | **goalkeeping** (Abel) |
 
 ## Data sources
 
