@@ -108,7 +108,11 @@ def parse_page(text):
 
         if line == "Possession":
             vals = [_clean_num(x) for x in lines[i + 1:i + 3]]
-            if all(v is not None for v in vals):
+            # len(vals) == 2 matters: a slice that runs off the end of a
+            # truncated page returns fewer items, and all([]) is True, so the
+            # guard would pass and the unpack below would raise instead of
+            # letting main() record the match as skipped.
+            if len(vals) == 2 and all(v is not None for v in vals) and i + 3 < len(lines):
                 home["possession_pct"], away["possession_pct"] = vals
                 # lines[i+3] is "N% in contest" — one figure for the match
                 contested = _clean_num(lines[i + 3].replace("in contest", ""))
@@ -119,7 +123,7 @@ def parse_page(text):
 
         if section and line in SECTIONS[section]:
             vals = [_clean_num(x) for x in lines[i + 1:i + 3]]
-            if all(v is not None for v in vals):
+            if len(vals) == 2 and all(v is not None for v in vals):
                 key = f"{section}: {line}"
                 home[key], away[key] = vals
                 i += 3
