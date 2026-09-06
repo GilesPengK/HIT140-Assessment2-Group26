@@ -42,15 +42,20 @@ ADVANCED_TEAMS = {
 def get_comment_tables(html: str) -> list[pd.DataFrame]:
     """FBref hides some tables inside <!-- --> comments. Extract and parse
     those in addition to the ones pandas.read_html finds normally."""
+    # flavor="lxml" is not optional here. Left to choose for itself, pandas
+    # falls back to bs4 + html5lib when the lxml backend finds no table, which
+    # is exactly what happens on an FBref page whose tables are all inside
+    # comments -- and html5lib is not installed, so the ImportError escapes the
+    # `except ValueError` below and kills the run on the first page.
     tables = []
     try:
-        tables += pd.read_html(StringIO(html))
+        tables += pd.read_html(StringIO(html), flavor="lxml")
     except ValueError:
         pass
     for comment in re.findall(r"<!--(.*?)-->", html, re.DOTALL):
         if "<table" in comment:
             try:
-                tables += pd.read_html(StringIO(comment))
+                tables += pd.read_html(StringIO(comment), flavor="lxml")
             except ValueError:
                 pass
     return tables

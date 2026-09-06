@@ -39,7 +39,6 @@ data/gk_match.csv (requires pandas.read_html's HTML parser backend --
 import asyncio
 import json
 import re
-import time
 from pathlib import Path
 
 from playwright.async_api import async_playwright
@@ -157,7 +156,7 @@ async def main():
             print(f"[{i}/{len(goalkeepers)}] {gk['name']}")
             outcome = await scrape_goalkeeper_matchlog(page, gk["player_id"], gk["name"])
             results.append({**gk, **outcome})
-            time.sleep(REQUEST_DELAY_SECONDS)
+            await asyncio.sleep(REQUEST_DELAY_SECONDS)
 
         await browser.close()
 
