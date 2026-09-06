@@ -6,7 +6,7 @@ FIFA World Cup 2026 analysis. Four analytic tasks, one per member.
 |---|---|---|
 | Sihao Cui | Discipline — fouls, group stage vs knockout | `notebooks/task_discipline_sihao.ipynb` |
 | Peng Song | 'Possession — UEFA teams vs 50% | notebooks/task_possession_peng.ipynb' |
-| Luke Ren | Chance creation — assists per 90, MF vs FW | *(to add)* |
+| Luke Ren | Chance creation — assists per 90, MF vs FW | notebooks/task_assists_luke.ipynb* |
 | Abel Qin | Goalkeeping — save percentage | *(to add)* |
 
 Due **10 September 2026, 14:00 ACST**.
